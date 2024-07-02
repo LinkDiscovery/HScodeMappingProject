@@ -20,6 +20,9 @@ Rink : https://youtu.be/i9hi_IIgkCY
 ---
 #### 웹 개발 페이지 
 ##### MAIN
+![image](https://github.com/LinkDiscovery/HScodeMappingProject/assets/154401566/d73dcaeb-05a6-434a-90c3-f25def6e5453)
+##### Search
+![image](https://github.com/LinkDiscovery/HScodeMappingProject/assets/154401566/47394857-518d-4a14-b6a1-c62811055c63)
 
 
 ---
