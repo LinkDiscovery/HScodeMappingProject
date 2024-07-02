@@ -37,7 +37,9 @@ Rink : https://youtu.be/i9hi_IIgkCY
   도식화 하면 아래와 같음.
 
 ![image](https://github.com/LinkDiscovery/HScodeMappingProject/assets/154401566/ff6b0df4-a68f-420e-9758-85943fd01d53)
+
 ---
+
 #### 분석 결과 개선점 및 한계점
 
   1. 산업 특성별 추천코드 개수 적용의 어려움 
