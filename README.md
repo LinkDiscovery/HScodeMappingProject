@@ -69,15 +69,14 @@ Rink : https://youtu.be/i9hi_IIgkCY
 ---
 ### 기술 스택
 
-- **프로그래밍 언어**: Python
+- **프로그래밍 언어**: Python version: 3.11.9
 
 - **데이터 처리 및 분석**:
-  - Pandas
-  - NumPy
-  - SciPy
+  - Pandas version: 2.2.2
+  - NumPy version: 1.26.4
  
 - **머신러닝**:
-  - Scikit-learn
+  - Scikit-learn version: 1.5.0
     
 - **데이터베이스**:
   - mySQL
