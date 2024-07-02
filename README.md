@@ -12,13 +12,17 @@
 |김보성|백엔드|https://github.com/kingboseong|
 |채수철|프론트엔드|https://github.com/Charles0304|
 ---
-#### 데이터 분석 진행과정 바로가기
+#### 데이터 분석 진행일기(Notion)
 > https://www.notion.so/cd44b82f39d64adca06035bcb77338dd?pm=c
 --- 
 #### 시연 영상
 Rink : https://youtu.be/i9hi_IIgkCY
 ---
+#### 웹 개발 페이지 
+##### MAIN
 
+
+---
 #### 분석 내용 및 분석 결과
 > 비식별된 해외기업별 영문 텍스트데이터.xlsx의 ‘DSC’ column을 살펴보면 
   해당기업에 대한 세부적인 description이 아닌 해당기업이 속한 국제표준산업
@@ -56,6 +60,9 @@ Rink : https://youtu.be/i9hi_IIgkCY
 
   3. 정밀도는 높으나 정확도 개선 필요, 
      추천 HS부호의 정밀도(몰려있는 정도)는 높으나 다양한 HS부호가 나올 수 있도록 정확도를 개선한다면 실용도가 더 높아질 수 있을 것이라 판단됨
+---
+### 활용기술 
+python
 
 
 
