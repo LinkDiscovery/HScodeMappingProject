@@ -12,8 +12,9 @@
 |김보성|백엔드|https://github.com/kingboseong|
 |채수철|프론트엔드|https://github.com/Charles0304|
 ---
-#### 프로젝트 진행과정 바로가기
----
+#### 데이터 분석 진행과정 바로가기
+> https://www.notion.so/cd44b82f39d64adca06035bcb77338dd?pm=c
+--- 
 #### 시연 영상
 Rink : https://youtu.be/i9hi_IIgkCY
 ---
