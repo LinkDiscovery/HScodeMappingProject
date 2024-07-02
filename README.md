@@ -8,9 +8,9 @@
 #### 팀 소개
 |이름|역할|GIT URL|
 |------|---|---|
-|신건영|데이터 분석|테스트3|
-|김보성|백엔드|테스트3|
-|채수철|프론트엔드|테스트3|
+|신건영|데이터 분석|https://github.com/LinkDiscovery|
+|김보성|백엔드|https://github.com/kingboseong|
+|채수철|프론트엔드|https://github.com/Charles0304|
 ---
 #### 프로젝트 진행과정 바로가기
 ---
