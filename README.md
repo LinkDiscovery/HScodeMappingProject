@@ -1,15 +1,17 @@
 # K-digital training HScode Mapping Project
-
+-
 #### 개발 기간 : *2024.05.28 ~ 2024.06.28*
- 
+ -
 #### 제안배경 :
  > 국내기업 수출 증진을 위해, 국내기업의 품목을 수입할 수 있는 해외기업 발굴에 대한 필요성이 존재하며, 이를 위해 해외기업 발굴 시, 국내기업이 취급하고 있는 품목과 유사한 품목을 취급하는 해외기업을 발굴할 때 활용하기 위함.
-
+-
+#### 팀 소개
+-
 #### 프로젝트 진행과정 바로가기
-
+-
 #### 시연 영상
 Rink : https://youtu.be/i9hi_IIgkCY
-
+-
 
 #### 분석 내용 및 분석 결과
 > 비식별된 해외기업별 영문 텍스트데이터.xlsx의 ‘DSC’ column을 살펴보면 
@@ -26,7 +28,7 @@ Rink : https://youtu.be/i9hi_IIgkCY
   부호에 대한 4단위(호), 6단위(소호), 10단위 별 영문 description 또한 존재
   한다는 것을 확인하였음. 
 
-- 국제표준산업분류 CODE에 대한 description의 Depth와
+> 국제표준산업분류 CODE에 대한 description의 Depth와
   HS부호 4단위, 6단위에 대한 description의 Depth가 비슷하다는 판단을 기반
   으로, 두 description 데이터에서 겹치는 단어가 많다면 두 텍스트가 유사하며 
   이를 토대로 HS부호를 추천해준다면, 관련성이 높을 것이라 가정하에 텍스트 
@@ -35,7 +37,7 @@ Rink : https://youtu.be/i9hi_IIgkCY
   도식화 하면 아래와 같음.
 
 ![image](https://github.com/LinkDiscovery/HScodeMappingProject/assets/154401566/ff6b0df4-a68f-420e-9758-85943fd01d53)
-
+-
 #### 분석 결과 개선점 및 한계점
 
   1. 산업 특성별 추천코드 개수 적용의 어려움 
