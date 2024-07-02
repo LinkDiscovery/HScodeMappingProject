@@ -67,6 +67,14 @@
       
      >추천 HS부호의 정밀도(몰려있는 정도)는 높으나 다양한 HS부호가 나올 수 있도록 정확도를 개선한다면 실용도가 더 높아질 수 있을 것이라 판단됨
 ---
+#### EER Diagram
+![image](https://github.com/LinkDiscovery/HScodeMappingProject/assets/154401566/e8672ee7-af22-4c7b-a045-190b08198fbe)
+---
+
+#### Architecture
+![image](https://github.com/LinkDiscovery/HScodeMappingProject/assets/154401566/75ddedc0-472b-437c-a98c-962cadb03bb2)
+---
+
 ### 기술 스택
 
 - **프로그래밍 언어**: Python version: 3.11.9
@@ -88,6 +96,9 @@
 - **버전 관리**:
   - Git
   - GitHub
+    
+- **Back End**:
+![image](https://github.com/LinkDiscovery/HScodeMappingProject/assets/154401566/9b2c121b-c71e-465a-be75-831f77e91cb6)
 
 
 
