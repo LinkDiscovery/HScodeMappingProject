@@ -78,7 +78,7 @@ Rink : https://youtu.be/i9hi_IIgkCY
  
 - **머신러닝**:
   - Scikit-learn
-  - 
+    
 - **데이터베이스**:
   - mySQL
  
